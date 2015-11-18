@@ -26,6 +26,7 @@
 <nav id="nav">
     <ul class="links">
         <li><a href="{{url('homePage')}}">Home</a></li>
+        <li><a href="{{url('contacts/create')}}">Contact</a></li>
       <!--  <li><a href="Blog.html">Blog</a></li>-->
     </ul>
 </nav>
